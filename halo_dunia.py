@@ -3,3 +3,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print ("Hallo Dunia!!")
 Hallo Dunia!!
 >>> print ("Belajar AI")
+print ("Yes !")
+
+
